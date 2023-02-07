@@ -1,1 +1,8 @@
 external_repos/
+.cache/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.local/
+.DS_Store
